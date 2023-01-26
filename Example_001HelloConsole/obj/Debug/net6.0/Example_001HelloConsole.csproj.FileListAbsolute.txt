@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\bin\Debug\net6.0\Example_001HelloConsole.exe
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\bin\Debug\net6.0\Example_001HelloConsole.deps.json
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\bin\Debug\net6.0\Example_001HelloConsole.runtimeconfig.json
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\bin\Debug\net6.0\Example_001HelloConsole.dll
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\bin\Debug\net6.0\Example_001HelloConsole.pdb
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.dll
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\refint\Example_001HelloConsole.dll
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.pdb
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\Example_001HelloConsole.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Python обучение\Examples\Example_001HelloConsole\obj\Debug\net6.0\ref\Example_001HelloConsole.dll
